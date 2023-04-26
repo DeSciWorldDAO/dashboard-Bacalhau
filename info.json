@@ -1,1 +1,21 @@
-
+{"name":"Bacalhau",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Bacalhau is a platform for fast, cost efficient, and secure computation by running jobs where the data is generated and stored. With Bacalhau, you can streamline your existing workflows without the need of extensive rewriting by running arbitrary Docker containers and WebAssembly (wasm) images as tasks. This architecture is also referred to as Compute Over Data (or CoD).",
+"whitePaperLink":"https://docs.bacalhau.org",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#595959",
+"twitterHandle":"bacalhauproject",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/HKDRi5E.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://bacalhau.org",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Science DeFi", "Philanthropy", "Decentralized computing"]
+  
+}
